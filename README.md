@@ -5,7 +5,7 @@ I'm an aspiring Data Scientist and a final-year student, passionate about levera
 ---
 
 **🔭 I’m currently working on:**
-- Major Project ( not done ) 
+- Major Project in Data Science
 - Honing my SQL skills for complex data querying.
 
 **🌱 I’m currently learning:**
